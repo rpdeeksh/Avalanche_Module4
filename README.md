@@ -39,7 +39,7 @@ To deploy and interact with the DegenToken contract, follow these steps:
 
 ## Authors
 
-* Deekshith R Prabhu prabhudeekshith11@gamil.com
+* Deekshith R Prabhu rpdeeksh288@gamil.com
 
 ## License
 
