@@ -12,9 +12,10 @@ The contract includes the following features:
 
 - **Burning**: Token holders can burn their own tokens based on a specific item serial number, which grants them access to exclusive items in the redemption shop.
 
-- **Redemption Shop**: The contract has a predefined redemption shop with three items available for redemption: 1. Bat, 2. Ball, 3. Stumps. Users can redeem these items by burning a specific quantity of tokens.
+- **Redemption Shop**: The contract has a predefined redemption shop with three items available for redemption: 1. Bat, 2. Ball, 3. Stumps. Users can redeem these items by burning a specific quantity of tokens. Burning of tokens will happen from the one who deployed the contract.
 
 - **GetCost**: One can look for the cost of the item that they want to buy. If they want to redeem an item that doesn't exist, then they will get an error.
+- **TransferFrom**: You can transfer the degen tokens from one account to another account by specifying the from and to addresses of the account with the amount to be transferred.
 
 ## Getting Started
 
